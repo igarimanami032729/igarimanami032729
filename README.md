@@ -40,7 +40,6 @@
 <img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-FF8FAB?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FFCAD4?style=for-the-badge&logo=javascript&logoColor=555"/>
-<img src="https://img.shields.io/badge/TypeScript-FF8FAB?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-FFB7C5?style=for-the-badge&logo=react&logoColor=white"/>
 
 <br/><br/>
@@ -49,16 +48,42 @@
 **🌷 Backend**
 
 <img src="https://img.shields.io/badge/Node.js-FFCAD4?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-FFB7C5?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FF8FAB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-FFCAD4?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Database -->
+**🌺 Database**
+
+<img src="https://img.shields.io/badge/MySQL-FFB7C5?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-FF8FAB?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-FFCAD4?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br/><br/>
+
+<!-- AI/ML -->
+**🤖 AI / ML**
+
+<img src="https://img.shields.io/badge/PyTorch-FFB7C5?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF8FAB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-FFCAD4?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML%2FDL-FFB7C5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RL-FF8FAB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multimodal-FFCAD4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-FFB7C5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-FF8FAB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agent-FFCAD4?style=for-the-badge&logoColor=white"/>
 
 <br/><br/>
 
 <!-- Tools -->
 **🎀 Tools**
 
-<img src="https://img.shields.io/badge/Git-FFCAD4?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-FFB7C5?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-FF8FAB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-FF8FAB?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-FFCAD4?style=for-the-badge&logo=slack&logoColor=white"/>
 
 <br/><br/>
 
