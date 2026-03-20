@@ -1,34 +1,68 @@
-<h1 align="center">Welcome to 🎀Nami's🎀 Code World 🐾</h1>
+<div align="center">
 
-<p align="center">
-  <!-- GIF 이미지를 여기에 넣어주세요 -->
-  <img src="your-gif-url-here.gif" alt="coding gif" width="480"/>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ff8fab,ffcad4&height=200&section=header&text=Welcome%20to%20%F0%9F%8E%80Nami's%F0%9F%8E%80%20Code%20World&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=✨%20Turning%20ideas%20into%20code%20✨&descAlignY=58&descSize=16" />
+
+<!-- Ribbon decoration under title -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=500&lines=%F0%9F%8E%80+Hello+Kitty+%26+Hello+World!+%F0%9F%8E%80;%E2%9C%A8+Welcome+to+my+GitHub+page!+%E2%9C%A8;%F0%9F%8C%B8+Let%27s+code+something+cute!+%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
+
+<br/>
+
+<!-- GIF 자리 -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="coding gif"/>
+
+<br/><br/>
 
 ---
 
-## 🛠 Tech Stack
+## 🎀 Tech Stack 🎀
 
-<p align="center">
-  <!-- 사용하는 기술 스택 뱃지를 추가해주세요 -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<br/>
+
+<!-- Frontend -->
+**🌸 Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-FF8FAB?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FFCAD4?style=for-the-badge&logo=javascript&logoColor=555"/>
+<img src="https://img.shields.io/badge/TypeScript-FF8FAB?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-FFB7C5?style=for-the-badge&logo=react&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Backend -->
+**🌷 Backend**
+
+<img src="https://img.shields.io/badge/Node.js-FFCAD4?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Tools -->
+**🎀 Tools**
+
+<img src="https://img.shields.io/badge/Git-FFCAD4?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FFB7C5?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-FF8FAB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<br/><br/>
 
 ---
 
-## 🌸 Connect with Me
+## 🌸 Visit My Pages 🌸
 
-<p align="center">
-  <!-- 블로그/노션 링크를 여기에 넣어주세요 -->
-  <a href="your-blog-url-here">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-  </a>
-  <a href="your-notion-url-here">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://www.notion.so/JUNG-MANAMI-2cf6c83b75c6818abacefe136b247762?source=copy_link">
+  <img src="https://img.shields.io/badge/📓 My Notion-FF8FAB?style=for-the-badge&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ff8fab,ffcad4&height=100&section=footer" />
+
+</div>
