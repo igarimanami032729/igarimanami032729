@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-FF8FAB?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FFCAD4?style=for-the-badge&logo=javascript&logoColor=555"/>
+<img src="https://img.shields.io/badge/TypeScript-FF8FAB?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-FFB7C5?style=for-the-badge&logo=react&logoColor=white"/>
 
 <br/><br/>
