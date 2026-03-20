@@ -18,7 +18,7 @@
 
 <!-- Ribbon decoration under title -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=500&lines=%F0%9F%8E%80+Hello+Kitty+%26+Hello+World!+%F0%9F%8E%80;%E2%9C%A8+Welcome+to+my+GitHub+page!+%E2%9C%A8;%F0%9F%8C%B8+Let%27s+code+something+cute!+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Welcome+to+my+GitHub+page!+%E2%9C%A8;%F0%9F%8C%B8+Let%27s+code+something+cute!+%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
 
 <br/>
