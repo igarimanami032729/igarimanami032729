@@ -102,6 +102,35 @@
 
 ---
 
+## 🌸 GitHub Stats 🌸
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=igarimanami032729&show_icons=true&theme=radical&bg_color=fff0f5&title_color=ff8fab&icon_color=ffb7c5&text_color=ff69b4&border_color=ffb7c5&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarimanami032729&layout=compact&theme=radical&bg_color=fff0f5&title_color=ff8fab&text_color=ff69b4&border_color=ffb7c5" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=igarimanami032729&theme=radical&background=fff0f5&ring=ff8fab&fire=ffb7c5&currStreakLabel=ff69b4&sideLabels=ff8fab&currStreakNum=ff69b4&sideNums=ff69b4&dates=ffb7c5&border=ffb7c5" />
+
+<br/><br/>
+
+---
+
+## 🐍 My Contributions 🐍
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igarimanami032729/igarimanami032729/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igarimanami032729/igarimanami032729/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/igarimanami032729/igarimanami032729/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/><br/>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ff8fab,ffcad4&height=100&section=footer" />
 
 </div>
